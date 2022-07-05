@@ -1,4 +1,4 @@
-*I working Printf project with 42 Istanbul*
+*I am working on Printf project at 42 Istanbul*
 
 ---------------------
 

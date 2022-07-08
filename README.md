@@ -9,14 +9,14 @@
 
 -----------
 
-| Skills |
+| SKILLS |
 | :--- |
 | Rigor |
 | Algorithms & AI |
 
 -------------
 
-| Keywords |
+| KEYWORDS |
 | :--- |
 | Unix Logic |
 

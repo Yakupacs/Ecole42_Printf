@@ -1,6 +1,26 @@
-*I am working on Printf project at 42 Istanbul*
+<p align="center">
+     FT_PRINTF
+</p>
 
----------------------
+-----------
+
+#### DESCRIPTION
+###### This project is pretty straightforward, you have to recode printf. You will learn what is and how to implement variadic functions. Once you validate it, you will reuse this function in your future projects.
+
+-----------
+
+| Skills |
+| :--- |
+| Rigor |
+| Algorithms & AI |
+
+-------------
+
+| Keywords |
+| :--- |
+| Unix Logic |
+
+<br>
 
 
  *☕️ Now you can buy me a coffee!*

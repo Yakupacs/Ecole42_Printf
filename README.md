@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
      FT_PRINTF
-</p>
+</h1>
 
 -----------
 
